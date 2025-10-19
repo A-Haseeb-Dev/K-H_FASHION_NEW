@@ -1,12 +1,12 @@
 import Navbar from "../Components/Navbar";
-import Collection from "../Components/Collections";
+import Stories from "../Components/Stories";
 import Footer from "../Components/Footer";
 
-export default function CollectionsPage() {
+export default function StoriesPage() {
   return(
     <>
     <Navbar />
-    <Collection />
+    <Stories />
     <Footer />
     </>
   );

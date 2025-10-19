@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Shirt",
+    "price": 89,
+    "category": "Men",
+    "color": "White",
+    "image": "/images/products/shirt1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Silk Dress",
+    "price": 149,
+    "category": "Women",
+    "color": "Red",
+    "image": "/images/products/dress1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Casual Denim Jacket",
+    "price": 119,
+    "category": "Men",
+    "color": "Blue",
+    "image": "/images/products/jacket1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kids Cotton Hoodie",
+    "price": 59,
+    "category": "Children",
+    "color": "Green",
+    "image": "/images/products/hoodie1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Linen Summer Dress",
+    "price": 99,
+    "category": "Women",
+    "color": "Beige",
+    "image": "/images/products/dress2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Linen Summer Dress",
+    "price": 99,
+    "category": "Women",
+    "color": "Beige",
+    "image": "/images/products/dress2.jpg"
+  }
+]

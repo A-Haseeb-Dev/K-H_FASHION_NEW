@@ -8,10 +8,12 @@ import Footer from "./Components/Footer";
 export default function Home() {
   return (
     <div>
+      <Navbar />
       <Hero />
       <NewArrivals />
       <BestSelling />
       <SuggestedProduct />
+      <Footer />
     </div>
   );
 }

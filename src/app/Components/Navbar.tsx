@@ -190,11 +190,11 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const links = [
-    { name: "Women", href: "#" },
-    { name: "Men", href: "#" },
-    { name: "Children", href: "#" },
-    { name: "Gifts", href: "#" },
-    { name: "Stories", href: "#" },
+    { name: "Home", href: "/" },
+    { name: "Products", href: "../Collections" },
+    { name: "Stories", href: "../Stories" },
+    { name: "About", href: "../About" },
+    { name: "Contact", href: "../Contact" },
   ];
 
   return (
